@@ -1,4 +1,6 @@
 Simple Linear Regression From Scratch
+
+
 1 import the libraries
 
 2 Generate Random Input Data to train
